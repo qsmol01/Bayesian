@@ -1,6 +1,7 @@
 # Final Project for DATS 6450
 
 Instructions:
+
 Download all files in this git, open Main.R and set this folder as working folder.
 
 Follow the instruction to input PM2.5 index and city.
